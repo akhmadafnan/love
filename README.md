@@ -1,2 +1,2 @@
-# love
+# Love
 Game Love Story
